@@ -7,3 +7,8 @@ The Python script uses Tkinter for a graphical mood rating interface, prompting 
 - **CSV**: to keep track of the time the user logged in
 - **datetime**: to find the time and date
 -  **random**: to select a random joke from the default jokes
+
+
+## Things I wand to add
+- **Assistant**: like the dog rover from windows xp which will be a gif
+- **Menu**: for color and font 
