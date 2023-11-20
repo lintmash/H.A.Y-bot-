@@ -12,4 +12,4 @@ The Python script uses Tkinter for a graphical mood rating interface, prompting 
 ## Things I wand to add
 - **Assistant**: like the dog rover from windows xp which will be a gif
 - **Menu**: for color and font 
-- **Test**: To ensure the code/just cause i can
+- **Test**: To ensure the code/just cause I can
